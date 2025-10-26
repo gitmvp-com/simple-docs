@@ -1,0 +1,23 @@
+{
+  "name": "simple-docs",
+  "version": "1.0.0",
+  "description": "MVP documentation site - A simplified Markdown-based documentation system",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/build.js",
+    "start": "node src/server.js",
+    "dev": "npm run build && npm start"
+  },
+  "keywords": [
+    "documentation",
+    "markdown",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^11.0.0",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {}
+}
