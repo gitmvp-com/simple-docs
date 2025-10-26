@@ -1,0 +1,18 @@
+# Documentation Table of Contents
+
+# Getting Started
+- href: docs/getting-started/intro.md
+- topics:
+    - href: docs/getting-started/installation.md
+    - href: docs/getting-started/quick-start.md
+
+# User Guide
+- href: docs/user-guide/intro.md
+- topics:
+    - href: docs/user-guide/writing-docs.md
+    - href: docs/user-guide/formatting.md
+
+# Reference
+- href: docs/reference/intro.md
+- topics:
+    - href: docs/reference/markdown-syntax.md
